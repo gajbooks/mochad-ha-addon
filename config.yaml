@@ -1,5 +1,5 @@
-name: "mochad"
-description: "Enables X-10 ActiveHome and PowerHouse devices for use in Home Assistant"
+name: "mochad (gajbooks branch)"
+description: "Enables X-10 ActiveHome and PowerHouse devices for use in Home Assistant (gajbooks dev fork)"
 version: 0.0.1
 slug: "mochad"
 uart: true
