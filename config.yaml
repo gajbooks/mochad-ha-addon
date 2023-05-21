@@ -5,6 +5,7 @@ slug: "mochad"
 uart: true
 usb: true
 url: "https://github.com/gajbooks/mochad-ha-addon"
+startup: services
 init: false
 ports:
   1099/tcp: 1099
